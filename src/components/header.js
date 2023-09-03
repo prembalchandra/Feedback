@@ -62,7 +62,7 @@ const Header = () => {
                       <span className="sort-dropdown-list-text ">Option 1</span>
                       {selectedSortOption === "Option 1" && (
                         <span className="sort-dropdown-list-check sort-dropdown-list-text">
-                          ✔
+                          ✔ pradeep
                         </span>
                       )}
                     </li>
